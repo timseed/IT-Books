@@ -4,6 +4,7 @@
 import pycurl
 from StringIO import StringIO
 import json
+import yaml
 import pprint
 
 URLMAIN="http://it-ebooks-api.info/v1/search/"
@@ -29,5 +30,12 @@ def BookInfo(search):
     for b in data[u'Books']:
        print ("%-15s %s")%(b[u'isbn'],b[u'Title'])
 
+def GetBooks():
+  f=open("books.yaml")
+  data=yaml.safe_load(f)
+  f.close()
+  for title in data['books']:
+      BookInfo(title)
 
-BookInfo("Python")
+if __name__ == "__main__":
+    GetBooks()
