@@ -1,0 +1,430 @@
+9780596009526  	1548294494     	Linux System Administration
+9780672329463  	674661311      	Linux Kernel Development  3rd Edition
+9780072262575  	1311043291     	Hacking Exposed Linux  3rd Edition
+9781849519601  	4031129334     	Linux Mint System Administrator s
+9781593272203  	3348997022     	The Linux Programming Interface
+9780596002558  	2525699380     	Understanding Linux Network Internals
+9781593271404  	568254925      	Linux Appliance Design
+9781430219644  	1596229372     	Foundations of CentOS Linux
+9781782163169  	331797304      	Web Penetration Testing with Kali Linux
+9781782168157  	1478542971     	Linux Mint Essentials
+9781783982141  	3084502629     	Kali Linux Network Scanning Cookbook
+9781784395186  	2235454092     	Embedded Linux Projects Using Yocto Project Cookbook
+9781783280414  	3290258288     	Kali Linux Wireless Penetration Testing
+9780596004613  	3590711255     	Linux Server Hacks
+9780596527204  	198741161      	Ubuntu Hacks
+9780596515829  	374053777      	Python for Unix and Linux System Administration
+9780596529680  	3854788102     	Building Embedded Linux Systems  2nd Edition
+9780596102487  	3254860467     	Linux Networking Cookbook
+9781565927308  	2757761257     	Managing RAID on Linux
+9780596009588  	3692117413     	Linux System Programming
+9780596005696  	3721941081     	Linux iptables Pocket Reference
+9780596005900  	1932191854     	Linux Device Drivers  3rd Edition
+9781593270315  	1465356700     	Linux Cookbook  2nd Edition
+9780596154486  	3757778727     	Linux in a Nutshell  6th Edition
+9781430224495  	2019045622     	Linux System Administration Recipes
+9781430230397  	2269266727     	Beginning Ubuntu Linux  5th Edition
+9780470770191  	2669250554     	Linux All in One For Dummies  4th Edition
+9781457107368  	559563774      	Professional Linux Programming
+9781457106811  	1150316389     	Shell Scripting
+9781449316693  	11008562       	Linux Pocket Guide  2nd Edition
+9780596100797  	4217842875     	Linux Kernel in a Nutshell
+9780470147733  	1029224785     	TCP IP Architecture  Design and Implementation in Linux
+9781430227786  	4056073050     	Smart Home Automation with Linux
+9780470147627  	2322241455     	Beginning Linux Programming  4th Edition
+9781430229582  	2805800950     	Pro Oracle Database 11g RAC on Linux  2nd Edition
+9780470251287  	2488509524     	Linux Command Line and Shell Scripting Bible
+9780132757270  	3312556402     	A Practical Guide to Fedora and Red Hat Enterprise Linux  6th Edition
+9781430219972  	2690762355     	Pro Bash Programming
+9780470413395  	3328608433     	Fedora 10 and Red Hat Enterprise Linux Bible
+9781118004425  	2856368604     	Linux Command Line and Shell Scripting Bible  2nd Edition
+9780672329456  	223844502      	openSUSE Linux Unleashed
+9781849519724  	32616264       	Arch Linux Environment Setup How to
+9781430248217  	4078096599     	Learn Raspberry Pi with Linux
+9780596804879  	2458161658     	LPI Linux Certification in a Nutshell  3rd Edition
+9781849513760  	2170261516     	Linux Shell Scripting Cookbook
+9781593273897  	1557886411     	The Linux Command Line
+9781430272274  	370262711      	Pro Linux Embedded Systems
+9780470485040  	2606565391     	Fedora 11 and Red Hat Enterprise Linux Bible
+9780596003432  	500773011      	Essential System Administration  3rd Edition
+9780596005658  	1971043855     	Understanding the Linux Kernel  3rd Edition
+9780596007607  	2947907110     	Running Linux  5th Edition
+9780596005481  	1897330952     	Linux Network Administrator s Guide  3rd Edition
+9781457107528  	1499921234     	Beginning Red Hat Linux 9
+9781593271411  	3584083317     	Linux Firewalls
+9780471754893  	3739868730     	Linux Bible
+9781449339531  	3663974233     	Linux System Programming  2nd Edition
+9780470485057  	2266346838     	Linux Bible 2010 Edition
+9781904811329  	2059874765     	Pluggable Authentication Modules
+9780470038994  	468040         	Ubuntu Linux Bible
+9781849519021  	841082296      	CentOS 6 Linux Server Cookbook
+9780672329692  	214645738      	Ubuntu 7 10 Linux Unleashed
+9781430215752  	3731223993     	Linux Recipes for Oracle DBAs
+9781782162742  	4271393080     	Linux Shell Scripting Cookbook  2nd Edition
+9781449345372  	2991264425     	Getting Started with BeagleBone
+9781783283118  	1249892772     	Debian 7  System Administration Best Practices
+9781849695107  	4193335482     	Penetration Testing with the Bash shell
+9781118844359  	2774123708     	Linux All in One For Dummies  5th Edition
+9781118825099  	4045257853     	The Art of Memory Forensics
+9781484200803  	1936727017     	Pro Linux High Availability Clustering
+9781847192042  	3040565241     	Linux Thin Client Networks Design and Deployment
+9781430268215  	3085572555     	The Definitive Guide to SUSE Linux Enterprise Server 12
+9781484205129  	604096245      	Practical Linux Infrastructure
+9781593275679  	991185306      	How Linux Works  2nd Edition
+9781784396435  	887764684      	Penetration Testing with Raspberry Pi
+9781118983843  	3613764427     	Linux Command Line and Shell Scripting Bible  3rd Edition
+9781430268390  	2625957259     	Intel Galileo and Intel Galileo Gen 2
+9781785282485  	1608432240     	CentOS High Availability
+9781484201220  	2176854543     	Pro Bash Programming  2nd Edition
+9781785287831  	2204548244     	Learning RHEL Networking
+9781785280863  	625909973      	NW js Essentials
+9781118999875  	2777688490     	Linux Bible  9th Edition
+9781934356159  	965707014      	Pragmatic Version Control Using Git
+9781934356180  	4247561869     	Scripted GUI Testing with Ruby
+9781934356227  	3917605781     	Ubuntu Kung Fu
+9780596101954  	1074560125     	X Power Tools
+9781449392178  	341823266      	vi and Vim Editors Pocket Reference  2nd Edition
+9780596007690  	2182289310     	Using Samba  3rd Edition
+9780596804848  	3273607899     	Ubuntu  Up and Running
+9780596009632  	3500864297     	Security Power Tools
+9781449387884  	2614248561     	bash Pocket Reference
+9781565928718  	2991942405     	Building Internet Firewalls  2nd Edition
+9780596514938  	886526670      	Knoppix Hacks  2nd Edition
+9780596529833  	3892192196     	Learning the vi and Vim Editors  Seventh Edition
+9780596006105  	321232594      	Managing Projects with GNU Make  3rd Edition
+9780596800673  	2175937954     	Mercurial  The Definitive Guide
+9780980576818  	441392374      	Build Your Own Database Driven Web Site Using PHP   MySQL  4th Edition
+9780596517342  	3364663041     	Asterisk  The Definitive Guide  3rd Edition
+9781449307639  	4058268752     	Managing Infrastructure with Puppet
+9781457104473  	1939215086     	Professional IronPython
+9780470481653  	2770164337     	CentOS Bible
+9781449320362  	3322210802     	Practical Computer Vision with SimpleCV
+9780596529949  	1482276733     	Apache Cookbook  2nd Edition
+9780596002244  	4005899168     	Web Services Essentials
+9781849511780  	155920065      	wxPython 2 8 Application Development Cookbook
+9781449344214  	827663644      	Getting Started with Raspberry Pi
+9780735652163  	1624820828     	Network Your Computers   Devices Step by Step
+9781430248279  	2975484419     	Pro Android C  with the NDK
+9780672335785  	835532272      	Ubuntu Unleashed 2012 Edition
+9781590598559  	1441161428     	Beginning Fedora
+3937514090     	3760113695     	Nagios
+9781593271749  	3266427428     	The Art of Debugging
+9781593271862  	130369376      	The Book of Xen
+9781849517522  	2141702436     	Git  Version Control for Everyone
+9781849519960  	3399564185     	Netcat Starter
+9780764579943  	794879432      	Beginning Unix
+9781593270643  	15773054       	Just Say No to Microsoft
+9780596527631  	1138408917     	Network Security Hacks  2nd Edition
+9781593271473  	440895592      	The Book of Qt 4
+9781430249146  	3450288351     	Oracle Exadata Recipes
+9781430216223  	3366376606     	Pro Ubuntu Server Administration
+9781449308292  	413198206      	Embedded Android
+9781118380932  	1829361491     	Hacking For Dummies  4th Edition
+9780596100292  	3678149709     	Unix in a Nutshell  4th Edition
+9781937785048  	3699330885     	Raspberry Pi  A Quick Start Guide
+9781847197689  	1596890493     	Zabbix 1 8 Network Monitoring
+9781449332426  	3994168397     	Asterisk  The Definitive Guide  4th Edition
+9780471218210  	2390349186     	Mastering Unix Shell Scripting
+9780672333415  	3047253288     	System Center Operations Manager  OpsMgr  2007 R2 Unleashed
+9780672331091  	1243261464     	Ubuntu Unleashed 2010 Edition  5th Edition
+9781904811657  	847928898      	Designing and Implementing Linux Firewalls and QoS using netfilter  iproute2  NAT and L7 filter
+9781847199942  	924371675      	High Availability MySQL Cookbook
+9781430218418  	2909140592     	Expert Shell Scripting
+9780470436769  	1648506580     	Professional Ubuntu Mobile Development
+9781849688482  	2317186990     	SolarWinds Orion Network Performance Monitor
+9781449328214  	3516509712     	Android Developer Tools Essentials
+9780321637734  	3597686505     	Advanced Programming in the UNIX Environment  3rd Edition
+9780980455274  	780905187      	Build Your Own Web Site  2nd Edition
+9781449392611  	979427560      	High Performance Drupal
+9781783280872  	2650089094     	Instant Ubuntu
+9781449365226  	1344259765     	Raspberry Pi Cookbook
+9781449372064  	3200790178     	Beginning NFC
+9781430262954  	546676947      	Automation through Chef Opscode
+9781484200681  	593033244      	Beginning Fedora Desktop
+9781937785802  	3645549274     	Raspberry Pi  2nd Edition
+9781484201824  	2515863328     	Mastering the Raspberry Pi
+9781491947852  	4061482910     	Data Science at the Command Line
+9781849689182  	1414795102     	VMware Workstation   No Experience Necessary
+9781849694520  	3741108994     	OpenCL Parallel Programming Development Cookbook
+9781593275648  	4001327731     	Penetration Testing
+9781484200773  	3806319423     	Pro Git  2nd Edition
+9781782167327  	3851094222     	OpenVZ Essentials
+9781783985920  	2032213423     	CentOS System Administration Essentials
+9781484207970  	1488456926     	Raspberry Pi System Software Reference
+9781491904282  	2958553019     	Programming Chrome Apps
+9781783988907  	3065117298     	Mastering BeagleBone Robotics
+9781783982905  	2853018188     	Learning BeagleBone
+9781784390594  	716268812      	Exploring SE for Android
+9781449367084  	3167791432     	Make  Getting Started with Sensors
+9781782163183  	3510695267     	Mastering Wireless Penetration Testing for Highly Secured Environments
+9781783983308  	53069721       	Learning OpenStack Networking  Neutron 
+9781118992913  	2863601025     	BeagleBone For Dummies
+9781484211137  	3406978021     	Oracle RMAN Database Duplication
+9781785287909  	1018756676     	Git Essentials
+9781785285776  	2316077467     	Home Automation with Intel Galileo
+9781491905395  	2000104055     	BeagleBone Cookbook
+9781491917572  	3721389246     	Docker  Up   Running
+9781785284847  	2252066926     	Raspberry Pi Robotics Essentials
+9781491900635  	3254871419     	Salt Essentials
+9781449323899  	779266103      	Programming Robots with ROS
+9781491922613  	1547910451     	Graphing Data with R
+9780596158088  	1974078437     	Python Pocket Reference  4th Edition
+9780596515829  	374053777      	Python for Unix and Linux System Administration
+9781449305444  	2352697304     	Python and AWS Cookbook
+9780470414637  	3528207506     	Beginning Python
+9780321680563  	446847865      	Programming in Python 3  2nd Edition
+9780470259320  	427609632      	Python
+9781430230038  	280504893      	Foundations of Python Network Programming  2nd Edition
+9781430232377  	4117080605     	Python Algorithms
+9781849513609  	3652408011     	Python Text Processing with NLTK 2 0 Cookbook
+9780596007973  	3845512211     	Python Cookbook  2nd Edition
+9781449340377  	29794614       	Python Cookbook  3rd Edition
+9781849694445  	2510907588     	Programming ArcGIS 10 1 with Python Cookbook
+9781849510189  	1470937288     	MySQL for Python
+9781782163923  	3085002194     	OpenCV Computer Vision with Python
+9781782161523  	1428883983     	Python Geospatial Development  2nd Edition
+9781782163367  	1598223633     	Python Data Visualization Cookbook
+9781449357016  	1161060019     	Python Pocket Reference  5th Edition
+9781849696623  	3147321496     	Raspberry Pi Cookbook for Python Programmers
+9781783280971  	290378256      	Mastering Object oriented Python
+9781783288687  	4251847851     	Python Tools for Visual Studio
+9781783281596  	3081414884     	Kivy  Interactive Applications in Python
+9781783288397  	4128280743     	Parallel Programming with Python
+9781484200568  	4054884817     	Python Algorithms  2nd Edition
+9781782167853  	545447491      	Python 3 Text Processing with NLTK 3 Cookbook
+9781783283156  	142692748      	Mastering Python Regular Expressions
+9781593275907  	197132194      	Black Hat Python
+9781783983506  	2437403579     	Learning Selenium Testing Tools with Python
+9781784398583  	3437331528     	Python Penetration Testing Essentials
+9781784398194  	3516426496     	Python for Google App Engine
+9781783285938  	4272050977     	Python Programming for Arduino
+9781783553334  	1445107469     	Learning Python Data Visualization
+9781784392772  	3613772806     	Building Machine Learning Systems with Python  2nd Edition
+9781784395414  	1245732744     	Python Requests Essentials
+9781491900253  	2473468087     	Programming Google App Engine with Python
+9781784392932  	1096823567     	Python Web Penetration Testing Cookbook
+9781783983988  	4113949713     	Building Web Applications with Python and Neo4j
+9781783553211  	1416496997     	Learning Python Testing
+9781784394516  	706007957      	Mastering Python for Finance
+9781783287536  	3374281910     	Learning Robotics Using Python
+9781785286926  	2675773370     	Kivy   Interactive Applications and Games in Python  2nd Edition
+9781783553358  	3626991592     	Python Data Analysis
+9781784399702  	2519422267     	Learning BeagleBone Python Programming
+9781784398781  	3829851894     	Python 3 Object oriented Programming  2nd Edition
+9781782175117  	1730021277     	Bioinformatics with Python Cookbook
+9781785289583  	1097634179     	Python Parallel Programming Cookbook
+9781934356272  	668359613      	Practical Programming
+9780596514273  	3095231871     	Regular Expression Pocket Reference  2nd Edition
+9780596516499  	37903889       	Natural Language Processing with Python
+9780596158064  	2057121364     	Learning Python  4th Edition
+9780596809560  	577321672      	Real World Instrumentation with Python
+9780596802370  	2235309861     	Head First Programming
+9781449382674  	3604371942     	Head First Python
+9781449310370  	3555406558     	MongoDB and Python
+9781430235699  	2869890805     	Pro Android Python with SL4A
+9780596158101  	2664239508     	Programming Python  4th Edition
+9781449309077  	2606639550     	Introduction to Tornado
+9781449316549  	1467620692     	Programming Computer Vision with Python
+9781449330729  	1395697506     	Think Python
+9781449319793  	1329180294     	Python for Data Analysis
+9780132356138  	2253044909     	Python Web Development with Django
+9781430225270  	1388612971     	The Definitive Guide to Jython
+9780596100469  	2330822688     	Python in a Nutshell  2nd Edition
+9781449305468  	1977167457     	SciPy and NumPy
+9780321767349  	1072573342     	The Python Standard Library by Example
+9781849511544  	2080907862     	Python Geospatial Development
+9781849513746  	1830808425     	Python 3 Web Development
+9781590595190  	2147472841     	Beginning Python
+9780596154509  	2818419616     	Bioinformatics Programming Using Python
+9781449326111  	3034844166     	Twisted Network Programming Essentials  2nd Edition
+9780596516147  	3557736006     	Essential SQLAlchemy
+9781593274078  	1314057428     	Python for Kids
+9781430227571  	3380440683     	Pro Python
+9780470555156  	1079096974     	Introduction to Computer Science Using Python
+9781118290279  	3262108328     	Data Structures and Algorithms in Python
+9781590598726  	2416809014     	Beginning Game Development with Python and Pygame
+9781590599815  	214325089      	Foundations of Agile Python Development
+9780596001285  	3268963434     	Python   XML
+9781430216322  	3871377371     	Python 3 for Absolute Beginners
+9781449355739  	3072782401     	Learning Python  5th Edition
+9781904811848  	992801943      	CherryPy Essentials
+9780471219750  	2118253800     	Making Use of Python
+9781782169932  	3391201722     	Learning IPython for Interactive Computing and Data Visualization
+9781449370787  	3614188992     	Think Bayes
+9781449367831  	2699815979     	Python and HDF5
+9781783280797  	2055368556     	Learning Cython Programming
+9781491946671  	532384997      	Creating Apps in Kivy
+9781849513463  	293175356      	Python Network Programming Cookbook
+9781449364823  	243861342      	Test Driven Development with Python
+9780321884916  	2055494132     	Learn Python the Hard Way  3rd Edition
+9781430264248  	2509514983     	Learn Raspberry Pi Programming with Python
+9781484200537  	4287520925     	Beginning Python Visualization  2nd Edition
+9781937785451  	3893921641     	Practical Programming  2nd Edition
+9781118901229  	561169301      	Testing Python
+9781449361594  	1411907703     	High Performance Python
+9781783289004  	2855102411     	Building Probabilistic Graphical Models with Python
+9781430258544  	2031356150     	Foundations of Python Network Programming  3rd Edition
+9781484202180  	566091790      	Pro Python System Administration  2nd Edition
+9781783980246  	990557682      	Practical Data Science Cookbook
+9781118891452  	3763164062     	Beginning Programming with Python For Dummies
+9780321905635  	1553593105     	Python in Practice
+9781491945285  	2636369931     	Python for Finance
+9781484203354  	3010588906     	Pro Python  2nd Edition
+9781783984664  	1078031348     	Building Mapping Applications with QGIS
+9781118908662  	1805058637     	Python Projects
+9781449372620  	2881378955     	Flask Web Development
+9781118961742  	2846527138     	Machine Learning in Python
+9781118717059  	2943090599     	Learning Python with Raspberry Pi
+9781783984985  	3616198306     	QGIS Python Programming Cookbook
+9781784396152  	3427636086     	Building Web Applications with Flask
+9781449359362  	2610999344     	Introducing Python
+9781491901533  	1634433482     	Effective Computation in Physics
+9781491910290  	113112775      	Web Scraping with Python
+9781491946008  	3846355800     	Fluent Python
+9781783985104  	247433283      	Mastering pandas for Finance
+9781785289637  	1273067721     	Learning Object Oriented Programming
+9781783981960  	2925229197     	Mastering pandas
+9781784394684  	3003505376     	Mastering Probabilistic Graphical Models Using Python
+9781783983902  	2170474281     	Learning NumPy Array
+9781484209592  	4204078931     	Python Data Analytics
+9781783284818  	944191337      	IPython Interactive Computing and Visualization Cookbook
+9781119037996  	2439218524     	Derivatives Analytics with Python
+9781593275990  	251707699      	Automate the Boring Stuff with Python
+9781593276409  	545005333      	Doing Math with Python
+9781784396909  	3511287682     	NLTK Essentials
+9783319130712  	2794547029     	Data Structures and Algorithms with Python
+9781934356333  	1950766150     	Programming Clojure
+9780596800697  	3880910135     	Using Google App Engine
+9780596520687  	2715243524     	Regular Expressions Cookbook
+9780596100896  	3398759608     	MySQL Stored Procedure Programming
+9780596557805  	792375096      	Getting Started with Pyparsing
+9781449303167  	1215768360     	21 Recipes for Mining Twitter
+9780596528126  	3595793731     	Mastering Regular Expressions  3rd Edition
+9781449307110  	3149127576     	Think Stats
+9781449388348  	2924768278     	Mining the Social Web
+9780596806156  	1799509730     	Building the Realtime User Experience
+9781449314637  	1900071041     	Think Complexity
+9781617290183  	3220037368     	Machine Learning in Action
+9781449394707  	182331854      	Clojure Programming
+9781449320362  	3322210802     	Practical Computer Vision with SimpleCV
+9781935182979  	2325381343     	RabbitMQ in Action
+9781457107368  	559563774      	Professional Linux Programming
+9780321741769  	3500359536     	The C  Programming Language  4th Edition
+9781449319434  	3497692288     	Regular Expressions Cookbook  2nd Edition
+9781449398262  	2897120742     	Programming Google App Engine  2nd Edition
+9780470563489  	3633322739     	C  2010 All in One For Dummies
+9780596527082  	2930198979     	MySQL Cookbook  2nd Edition
+9781449315115  	1659560337     	Testing in Scala
+9781590596739  	3841326344     	The Definitive Guide to SQLite
+9781849515306  	2046009774     	NumPy 1 5
+9781849512725  	657216747      	Panda3D 1 6 Game Engine
+9781849514460  	3578872684     	Sage  Beginner s Guide
+9781449340049  	1179918615     	MongoDB Applied Design Patterns
+9781935182757  	2910083089     	Scala in Action
+9781430225355  	1189389683     	Beginning Django E Commerce
+9781847194282  	3894519100     	Zenoss Core Network and System Monitoring
+9781430248064  	4222549882     	Beginning Groovy  Grails and Griffon
+9781430258094  	614162629      	Pro Django  2nd Edition
+9781937785499  	1003342764     	Programming Ruby 1 9   2 0  4th Edition
+9781847195708  	389079091      	Django 1 0 Template Development
+9781782166085  	2850796343     	NumPy Beginner s Guide  2nd Edition
+9781449345372  	2991264425     	Getting Started with BeagleBone
+9781449326265  	3436063986     	Agile Data Science
+9781430259053  	3115688347     	Objective C Programmer s Reference
+9781449365226  	1344259765     	Raspberry Pi Cookbook
+9781491900475  	3118066662     	Getting Started with OpenShift
+9781849513265  	3845904032     	matplotlib Plotting Cookbook
+9781849515849  	2475329731     	Webmin Administrator s Cookbook
+9781783982226  	4932121        	Raspberry Pi Projects for Kids
+9781849699594  	1934271889     	PySide GUI Application Development
+9781617290626  	2936954290     	CoffeeScript in Action
+9781484201824  	2515863328     	Mastering the Raspberry Pi
+9781449374020  	2002735948     	MySQL Cookbook  3rd Edition
+9781491947852  	4061482910     	Data Science at the Command Line
+9781491910139  	4101266592     	60 Recipes for Apache CloudStack
+9781783289554  	1285468179     	Getting Started with Beautiful Soup
+9781491907337  	812179435      	Think Stats  2nd Edition
+9781617290398  	1948692065     	Linked Data
+9781491945940  	3288861369     	Lightweight Django
+9781782161622  	1771345212     	Learning SciPy for Numerical and Scientific Computing
+9781484208960  	1996589528     	MongoDB Basics
+9781783989485  	1355082220     	scikit learn Cookbook
+9781783988341  	982398658      	IPython Notebook Essentials
+9781484201435  	2085824938     	Beginning Apache Cassandra Development
+9781783988884  	3165567111     	Cassandra Data Modeling and Analysis
+9781449360887  	591859385      	Google Compute Engine
+9781449367930  	2739345531     	Learning Scala
+9781783987849  	166268092      	Kivy Blueprints
+9781783987702  	240827340      	Learning SciPy for Numerical and Scientific Computing  2nd Edition
+9781783554836  	3653078957     	ElasticSearch Cookbook  2nd Edition
+9781118992913  	2863601025     	BeagleBone For Dummies
+9781783986644  	3774056327     	Django Design Patterns and Best Practices
+9781784398682  	888487196      	Mastering QGIS
+9781784392901  	2107991084     	Raspberry Pi Blueprints
+9781491901427  	1844441652     	Data Science from Scratch
+9781491912768  	2734831118     	Advanced Analytics with Spark
+9781783287253  	2173853336     	Neo4j Cookbook
+9781783984404  	4279294028     	Learning Django Web Development
+9781491916469  	1566752530     	Essential SQLAlchemy  2nd Edition
+9781784398286  	225098420      	Raspberry Pi Computer Vision Programming
+9781785281525  	1476247891     	Raspberry Pi Projects for Kids  2nd Edition
+9781449367374  	1363674813     	Bioinformatics Data Skills
+9781491900635  	3254871419     	Salt Essentials
+9781449323899  	779266103      	Programming Robots with ROS
+9781783987542  	3273470189     	Mastering matplotlib
+9781783985128  	1118978956     	Learning pandas
+9781784390945  	1862641573     	NumPy Cookbook  2nd Edition
+9781784393526  	2446472835     	BeagleBone Essentials
+9781782169628  	2516398614     	Instant Flask Web Development
+9781785280702  	2116859294     	Amazon S3 Cookbook
+9781784392451  	2166629588     	Redis Essentials
+9781849517287  	1063294077     	Hadoop MapReduce Cookbook
+9781849519120  	1743380882     	Hadoop Real World Solutions Cookbook
+9781782177982  	3217721622     	Microsoft SQL Server 2012 with Hadoop
+9781782163282  	3774028989     	Big Data Analytics with R and Hadoop
+9780321934505  	3490952386     	Apache Hadoop YARN
+9781783285259  	2914735138     	Securing Hadoop
+9781783281374  	4187431082     	Scaling Big Data with Hadoop and Solr
+9781783983643  	797044216      	Mastering Hadoop
+9781783285471  	8987930        	Hadoop MapReduce v2 Cookbook  2nd Edition
+9781491947937  	895371797      	Field Guide to Hadoop
+9781785288104  	1304870022     	Big Data Forensics  Learning Hadoop Investigations
+9781449389734  	3390674997     	Hadoop  The Definitive Guide  2nd Edition
+9781449311520  	3116951999     	Hadoop  The Definitive Guide  3rd Edition
+9781449319335  	499621655      	Programming Hive
+9781449327057  	278604478      	Hadoop Operations
+9781617290237  	2295456029     	Hadoop in Practice
+9781449327170  	1086609788     	MapReduce Design Patterns
+9781449302641  	2001870617     	Programming Pig
+9781430219422  	2123805015     	Pro Hadoop
+9781449364625  	3294239711     	Apache Sqoop Cookbook
+9781849517300  	2752689958     	Hadoop  Beginner s Guide
+9781118611937  	2039807109     	Professional Hadoop Solutions
+9781449326265  	3436063986     	Agile Data Science
+9781430260554  	2144524499     	Pro Microsoft HDInsight
+9781430248637  	3973918612     	Pro Apache Hadoop  2nd Edition
+9781430265443  	253191473      	Practical Hadoop Security
+9781484200957  	4231882735     	Big Data Made Easy
+9781491901632  	59564493       	Hadoop  The Definitive Guide  4th Edition
+9781491922668  	1161261594     	Real World Hadoop
+9781449369927  	524890005      	Apache Oozie
+9781449312084  	2905361158     	R in a Nutshell  2nd Edition
+9781449323950  	2752017794     	Spring Data
+9781935182597  	2588200311     	Clojure in Action
+9781449309923  	3805483104     	Parallel R
+9781449358723  	3236156696     	Enterprise Data Workflows with Cascading
+9781449364212  	2814426314     	Real Time Big Data Analytics
+9781449363628  	3919853929     	Programming Elastic MapReduce
+9781782167068  	253963701      	Fast Data Processing with Spark
+9781783285990  	2526944282     	Apache Accumulo for Developers
+9781783285556  	1942717107     	Pig Design Patterns
+9780735685512  	1412059177     	Introducing Windows Azure Hdinsight
+9781118824825  	699645761      	Google BigQuery Analytics
+9781783981328  	4114190781     	Learning Storm
+9781782169499  	1267142725     	Talend for Big Data
+9781784393090  	537805579      	Learning Apache Kafka  2nd Edition
+9781784392574  	2053858258     	Fast Data Processing with Spark  2nd Edition
+9781783555215  	2636011737     	Learning Apache Mahout
+9781782173632  	3214821423     	Mastering AWS Development
+9781783288762  	3141926807     	Apache Mesos Essentials
+9781785280702  	2116859294     	Amazon S3 Cookbook
