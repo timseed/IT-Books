@@ -37,3 +37,29 @@ You now will query the API - and with the results
 
 
 python update.py  
+
+
+#To View the html
+
+firefox latest.html&
+
+# To generate a Download request
+
+Look at either library.txt or latest.html - and see a Manual that you are interested in.
+
+It will have a name, index number and a ISBN Number.  You want the Index Number.
+
+Then run the following command
+
+   python  BookPage.py <Index>
+
+
+ie 
+   python BookPage.py 2235454092
+   http://filepi.com/i/IrlAtdd
+
+To Download lots automatically.... 
+
+   cat library.txt | cut -f 2 | xargs -i -t python BookPage.py  {}
+
+
